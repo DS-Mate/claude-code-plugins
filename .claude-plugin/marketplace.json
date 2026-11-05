@@ -11,7 +11,7 @@
     {
       "name": "ds-mate",
       "source": "./plugins/ds-mate",
-      "description": "Ask Claude Code about your DS-Mate dropshipping account: orders, stores, products, suppliers, unlinked variants, eBay buyer messages (on a plan with messaging), the dashboard summary and AliExpress product search. You choose what Claude may do when you sign in.",
+      "description": "Ask Claude about your DS-Mate dropshipping account: orders, stores, products, suppliers, unlinked variants, eBay buyer messages (on a plan with messaging), the dashboard summary and AliExpress product search. You choose what Claude may do when you sign in.",
       "category": "productivity"
     }
   ]
