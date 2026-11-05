@@ -10,6 +10,7 @@
   "homepage": "https://www.ds-mate.com/ai/tools",
   "repository": "https://github.com/DS-Mate/claude-code-plugins",
   "privacyPolicyUrl": "https://www.ds-mate.com/privacy",
+  "icon": ".claude-plugin/icon.png",
   "license": "MIT",
   "keywords": ["dropshipping", "ecommerce", "orders", "aliexpress", "shopify"]
 }
