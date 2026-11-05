@@ -1,7 +1,6 @@
 {
   "name": "ds-mate",
-  "version": "1.0.0",
-  "description": "Ask Claude Code about your DS-Mate dropshipping account: orders, stores, products, suppliers, unlinked variants, eBay buyer messages, the dashboard summary and AliExpress product search. You choose what Claude may do when you sign in; today it can only read.",
+  "description": "Ask Claude Code about your DS-Mate dropshipping account: orders, stores, products, suppliers, unlinked variants, eBay buyer messages (on a plan with messaging), the dashboard summary and AliExpress product search. You choose what Claude may do when you sign in.",
   "author": {
     "name": "DS-Mate, Inc.",
     "email": "support@ds-mate.com",
@@ -12,5 +11,14 @@
   "privacyPolicyUrl": "https://www.ds-mate.com/privacy",
   "icon": ".claude-plugin/icon.png",
   "license": "MIT",
-  "keywords": ["dropshipping", "ecommerce", "orders", "aliexpress", "shopify"]
+  "keywords": [
+    "dropshipping",
+    "ds-mate",
+    "ecommerce",
+    "mcp",
+    "orders",
+    "product-sourcing",
+    "aliexpress",
+    "shopify"
+  ]
 }
