@@ -1,15 +1,18 @@
 # DS-Mate for Claude Code
 
-Ask Claude Code about your DS-Mate dropshipping account: which orders need
-your attention and why, one order's status, items and tracking, store
-performance over the last 7, 30 or 90 days, product variants that are not
-linked to a supplier yet, your stores, products and supplier accounts, eBay
-buyer messages (on a plan that includes messaging), and AliExpress product
-search by keywords, image link or product link.
+Ask Claude Code about your DS-Mate dropshipping account: orders, stores,
+products, suppliers, unlinked variants, eBay buyer messages, the dashboard
+summary and AliExpress product search. You choose what Claude may do when you
+sign in; today it can only read.
 
-The plugin is **read only**. It cannot pay for or place supplier orders,
-import products, link variants, delete stores or send buyer messages. Those
-stay in the DS-Mate dashboard.
+For example: which orders need your attention and why, one order's status,
+items and tracking, how your stores did over the last 7, 30 or 90 days, which
+variants are not linked to a supplier yet, and AliExpress products by
+keywords, image link or product link. Buyer messages need a DS-Mate plan that
+includes messaging.
+
+Paying for or placing supplier orders, importing products, linking variants,
+deleting stores and sending buyer messages stay in the DS-Mate dashboard.
 
 ## What you need
 
