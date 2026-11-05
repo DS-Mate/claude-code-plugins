@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "ds-mate": {
+      "type": "http",
+      "url": "https://ai.ds-mate.com/mcp"
+    }
+  }
+}

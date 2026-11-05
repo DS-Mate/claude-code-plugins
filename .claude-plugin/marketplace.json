@@ -1,0 +1,18 @@
+{
+  "name": "ds-mate",
+  "owner": {
+    "name": "DS-Mate, Inc.",
+    "email": "support@ds-mate.com"
+  },
+  "metadata": {
+    "description": "DS-Mate's plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "ds-mate",
+      "source": "./plugins/ds-mate",
+      "description": "Read your DS-Mate dropshipping account from Claude Code: orders, stores, products, suppliers and AliExpress product search. Read only.",
+      "category": "productivity"
+    }
+  ]
+}

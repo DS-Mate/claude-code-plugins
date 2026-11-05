@@ -1,0 +1,14 @@
+{
+  "name": "ds-mate",
+  "version": "1.0.0",
+  "description": "Read your DS-Mate dropshipping account from Claude Code: orders, stores, products, suppliers, unlinked variants, eBay buyer messages, the dashboard summary and AliExpress product search. Read only.",
+  "author": {
+    "name": "DS-Mate, Inc.",
+    "email": "support@ds-mate.com",
+    "url": "https://www.ds-mate.com"
+  },
+  "homepage": "https://www.ds-mate.com/ai/tools",
+  "privacyPolicyUrl": "https://www.ds-mate.com/privacy",
+  "license": "MIT",
+  "keywords": ["dropshipping", "ecommerce", "orders", "aliexpress", "shopify"]
+}
