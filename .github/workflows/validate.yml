@@ -16,8 +16,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "22"
+      # Pinned so a new Claude Code release cannot turn this check red with
+      # nothing changed here. Raise it on purpose, in its own PR.
       - name: Install Claude Code
-        run: npm install -g @anthropic-ai/claude-code
+        run: npm install -g @anthropic-ai/claude-code@2.1.311
       - name: Validate the marketplace
         run: claude plugin validate .
       - name: Validate the plugin against the directory checks
